@@ -1,0 +1,65 @@
+[
+  {
+    "name": "TEST3",
+    "src": "c:\\users\\asus\\music\\test3\\",
+    "dst": "d:\\users\\asus\\music\\",
+    "backupType": 0,
+    "isCrypted": false,
+    "lastBackupDate": "2021/12/18_21:30:44",
+    "colorProgressBar": "White",
+    "state": {
+      "totalFile": 0,
+      "totalPrioFile": 0,
+      "leftPrioFile": 0,
+      "totalSize": 0,
+      "Progress": 0,
+      "nbFileLeft": 0,
+      "leftSize": 0,
+      "currentPathSrc": "",
+      "currentPathDest": "",
+      "progress": 0
+    }
+  },
+  {
+    "name": "oussamasave",
+    "src": "c:\\users\\asus\\downloads\\nouveau dossier\\",
+    "dst": "c:\\users\\asus\\music\\",
+    "backupType": 0,
+    "isCrypted": false,
+    "lastBackupDate": null,
+    "colorProgressBar": "White",
+    "state": {
+      "totalFile": 1,
+      "totalPrioFile": 0,
+      "leftPrioFile": 0,
+      "totalSize": 0,
+      "Progress": 0,
+      "nbFileLeft": 1,
+      "leftSize": 0,
+      "currentPathSrc": "",
+      "currentPathDest": "",
+      "progress": 0
+    }
+  },
+  {
+    "name": "ousss",
+    "src": "c:\\users\\asus\\downloads\\nouveau dossier\\",
+    "dst": "c:\\users\\asus\\videos\\",
+    "backupType": 0,
+    "isCrypted": false,
+    "lastBackupDate": null,
+    "colorProgressBar": "White",
+    "state": {
+      "totalFile": 0,
+      "totalPrioFile": 0,
+      "leftPrioFile": 0,
+      "totalSize": 0,
+      "Progress": 0,
+      "nbFileLeft": 0,
+      "leftSize": 0,
+      "currentPathSrc": null,
+      "currentPathDest": null,
+      "progress": 0
+    }
+  }
+]
