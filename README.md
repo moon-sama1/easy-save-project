@@ -1,5 +1,5 @@
 # 
-![Logo](https://cdn-icons-png.flaticon.com/128/5234/5234222.png)
+![Logo](https://i.imgur.com/UsqHZCj.png)
 
 
 # EasySave
