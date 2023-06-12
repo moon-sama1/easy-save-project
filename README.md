@@ -27,7 +27,7 @@ Json.NET Framework installed
 If you have git, you can clone the repo with this command (or you can directly download it as Zip):
 
 ```bash
- git clone https://github.com/moon-sama1/EasySave-
+ git clone https://github.com/moon-sama1/easy-save-project
 ```
     
     
